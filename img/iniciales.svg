@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_15" d="m173,165l28.125,-8.625l22.125,-18.625l25.125,-18.625l25.125,-18.625l25.125,-18.625l25.125,-18.625l25.125,-18.625l25.125,-18.625c-13.5,61.333336 -27,122.666672 -40.5,184c-13.5,61.333344 -27,122.666687 -40.5,184c-37.166656,-25.166687 -36.333313,-116.333344 -111.5,-75.5c-75.166672,40.833344 -74.333336,-50.333313 -111.5,-75.5c32.666664,5 66.333328,46 98,15c31.666672,-31 65.333344,10 98,15l34,-127c-21.166656,3.166656 -45.333313,-21.666672 -63.5,9.5c-18.166687,31.166672 -42.333344,6.333344 -63.5,9.5z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#47d38b"/>
+  <path id="svg_18" d="m131,221l133,-52l-8,71c-16.166656,23 -21.333328,-40 -70.5,-7c-49.166672,33 -36.333344,-8 -54.5,-12z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#00bf5f"/>
+  <path id="svg_19" d="m191,208l51,-16l1,23l-52,-7z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#000000" fill="#ffffff"/>
+ </g>
+</svg>
